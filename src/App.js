@@ -5,7 +5,6 @@ function App() {
   return (
     <div>
       <AddUser />
-      <h2>repo test</h2>
     </div>
   );
 }
